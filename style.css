@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    display: inline;
+}
+
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sports h2{
+    color: green;
+    
+}
+
+#economy h2{
+    color: yellow;
+}
+
+#entretenimento h2{
+    color: red;
+}
+
+#tecnologia h2{
+    color: blue;
+}
+
+.date {
+    color: grey;
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
